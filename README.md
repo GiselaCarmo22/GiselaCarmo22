@@ -1,8 +1,5 @@
-- 👋 Hi, I’m @GiselaCarmo22
-- 👀 I’m interested in 
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Olá sou a Gisela Carmo
+- 👀 Gosto de observar pessoas, tendo em conta atitudes e acções com base psicologica e social
 
 <!---
 GiselaCarmo22/GiselaCarmo22 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
